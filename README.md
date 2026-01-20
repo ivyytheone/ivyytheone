@@ -32,47 +32,6 @@ At **ivyydev**, I provide consulting and development services for companies in S
 
 ---
 
-## 🧠 Philosophy
-
-I believe in:
-- Simple solutions over complex ones
-- Automation wherever it makes sense
-- Clear communication between business and tech
-- Building systems that are maintainable, secure and scalable
-
----
-
-## 🛠️ Tech Stack & Tools
-
-**Languages & Frameworks**
-- Python
-- JavaScript / TypeScript
-- Django
-- React
-- HTML / CSS
-
-**Infrastructure & DevOps**
-- Linux (Debian/Ubuntu)
-- NGINX
-- Docker
-- Ansible
-- Git & GitHub
-- CI/CD pipelines
-
-**Monitoring & Automation**
-- Zabbix
-- ITRS OP5 / NAGIOS
-- Power Automate
-- Custom scripts and internal tools
-
-**Other**
-- REST APIs
-- Security best practices
-- Performance optimization
-- Member of BTH-SOC
-
----
-
 ## 📂 Projects
 
 Some example projects and areas I’ve worked on:
@@ -84,25 +43,3 @@ Some example projects and areas I’ve worked on:
 
 More case studies and examples:
 👉 https://www.ivyydev.se/portfolio
-
----
-
-## 🤝 Free Pilot Project
-
-I offer a **Free Pilot Project** through ivyydev, where companies can explore an idea or technical challenge without commitment.
-
-Learn more:
-👉 https://www.ivyydev.se/free-pilot-project
-
----
-
-## 📫 Get in Touch
-
-- Website: https://www.ivyydev.se
-- Contact: https://www.ivyydev.se/contact
-
-Always open for discussing a variety of topics.
-
----
-
-⭐️ *Thanks for visiting my profile*
