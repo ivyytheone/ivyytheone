@@ -5,9 +5,6 @@ I’m a **System Technician at Blekinge Institute of Technology (BTH)** and the 
 I work at the intersection of **infrastructure, automation and software development**, with a strong focus on pragmatic solutions that actually solve real-world problems.
 
 ---
-
-## 👨‍💻 What I Do
-
 ### 🏢 Professional Role
 - **System Technician at BTH**
 - Working with:
@@ -31,15 +28,3 @@ At **ivyydev**, I provide consulting and development services for companies in S
 🌍 Website: https://www.ivyydev.se
 
 ---
-
-## 📂 Projects
-
-Some example projects and areas I’ve worked on:
-- Internal NGINX management systems
-- CRM platforms with AI integrations
-- Automation tools for IT operations
-- Business websites and web applications
-- Monitoring dashboards and alerting systems
-
-More case studies and examples:
-👉 https://www.ivyydev.se/portfolio
