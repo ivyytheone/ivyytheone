@@ -2,19 +2,19 @@
 
 I’m a **System Technician at Blekinge Institute of Technology (BTH)** and the founder of **ivyydev**, where I help businesses design, build and automate reliable digital systems.
 
-I work at the intersection of **infrastructure, automation and software development**, with a strong focus on pragmatic solutions that actually solve real-world problems.
+I work at the intersection of **infrastructure, automation and software development**, with a strong focus on solutions that actually solve real-world problems.
 
 ---
 ### 🏢 Professional Role
 - **System Technician at BTH**
 - Working with:
   - Linux servers and system administration
-  - Part of SOC
+  - Part of the security team
   - Monitoring and reliability
   - Internal tools and automation
-  - Secure and scalable system design
+  - Broad range of AI testing
 
-### 🚀 Founder of ivyydev
+### 🚀 Founder of [ivyydev](https://ivyydev.se/)
 At **ivyydev**, I provide consulting and development services for companies in Sweden and internationally.
 
 **Main areas:**
@@ -24,7 +24,5 @@ At **ivyydev**, I provide consulting and development services for companies in S
 - IT consulting and technical advisory
 - Monitoring (Zabbix) and reliability engineering
 - Custom internal tools and dashboards
-
-🌍 Website: https://www.ivyydev.se
 
 ---
