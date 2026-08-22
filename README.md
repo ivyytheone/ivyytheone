@@ -14,3 +14,14 @@ I work at the intersection of **infrastructure, automation and software developm
   - Internal tools and automation
   - Broad range of AI testing
 ---
+### 💼 [Ivyydev.se](https://ivyydev.se)
+
+- **Founder of Ivyydev**
+- Helping businesses with:
+  * Software development
+  * Infrastructure and system administration
+  * Automation and workflow optimization
+  * Internal tools and custom solutions
+  * AI-driven solutions and experimentation
+* Focused on building **reliable, practical and maintainable systems**
+---
